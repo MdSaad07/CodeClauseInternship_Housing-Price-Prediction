@@ -6,7 +6,7 @@ The goal of this project is to build a machine learning model that predicts hous
 
 ---
 
-## **Screenshots**
+### 📷 **Screenshots**
 
 ![image](Output.png)
 
@@ -61,4 +61,4 @@ The goal of this project is to build a machine learning model that predicts hous
 ---
 
 ### 👨‍💻 **Author**
-- **Mohammed Saad Fazal**
+- **[Mohammed Saad Fazal](https://github.com/Mdsaad07)**
