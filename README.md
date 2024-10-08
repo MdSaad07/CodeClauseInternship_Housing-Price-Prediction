@@ -13,7 +13,8 @@ The goal of this project is to build a machine learning model that predicts hous
 ---
 
 ### 📊 **Model Accuracy**
-- **Linear Regression Score**: `0.9389909906666429`
+- **Linear Regression Score**: `0.938990990666642` or `93.9%`
+- ![Accuracy](Accuracy.png)
 
 ---
 
