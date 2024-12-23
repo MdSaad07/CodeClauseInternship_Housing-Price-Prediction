@@ -54,8 +54,8 @@ The goal of this project is to build a machine learning model that predicts hous
 - ✂️ **Train-Test Split**: Split the dataset into training and testing sets (e.g., 80% train, 20% test) using `train_test_split` from **Scikit-learn**.
 
 #### 4️⃣ **Model Building & Model Selection**:
-- 🏗️ Use machine learning algorithms like **Linear Regression**, **Decision Tree Regressor**, or **Random Forest Regressor** to predict housing prices.
-- 🔧 Train each model on the training dataset.
+- 🏗️ Used machine learning algorithms like **Linear Regression**, **Decision Tree Regressor**, or **Random Forest Regressor** to predict housing prices.
+- 🔧 Trained each model on the training dataset.
 
 ---
 
